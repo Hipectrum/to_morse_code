@@ -12,7 +12,6 @@ morse_alphabet = [
 
 
 converted_word = []
-
 user_input = input(f"Enter word here: ")
 
 
