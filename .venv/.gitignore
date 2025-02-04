@@ -1,0 +1,20 @@
+# created by virtualenv automatically
+*.log
+*.tmp
+*.swp
+*.swo
+venv/
+.venv/
+.DS_Store
+Thumbs.db
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+Pipfile
+Pipfile.lock
+.idea/
+.env
